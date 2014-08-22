@@ -1,7 +1,8 @@
 /*
- * Copyright 2009 Gokul Ramesh <gokul.q3a@gmail.com>
- * Copyright 2009 Sureshkrishna Gonugunta <gsuresh92@gmail.com>
- *
+ * Copyright 2014 Gokul Ramesh <gokul.q3a@gmail.com>
+ * Copyright 2014 Sureshkrishna Gonugunta <gsuresh92@gmail.com>
+ * Copyright 2014 LatentView Analytics, Inc.
+ * 
  * Licensed under the Apache License, Version 2.0 (the "License"); you may
  * not use this file except in compliance with the License. You may obtain
  * a copy of the License at
@@ -16,7 +17,7 @@
  */
 
 
-package com.koalas.common;
+package com.latentview.koalas.common;
 
 
 import java.io.BufferedReader;
@@ -30,8 +31,8 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.koalas.common.DataFrame;
-import com.koalas.common.Series;
+import com.latentview.koalas.common.DataFrame;
+import com.latentview.koalas.common.Series;
 
 
 /**

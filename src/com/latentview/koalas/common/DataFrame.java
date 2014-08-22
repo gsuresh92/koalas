@@ -1,6 +1,7 @@
 /*
- * Copyright 2009 Gokul Ramesh <gokul.q3a@gmail.com>
- * Copyright 2009 Sureshkrishna Gonugunta <gsuresh92@gmail.com>
+ * Copyright 2014 Gokul Ramesh <gokul.q3a@gmail.com>
+ * Copyright 2014 Sureshkrishna Gonugunta <gsuresh92@gmail.com>
+ * Copyright 2014 LatentView Analytics, Inc.
  *
  * Licensed under the Apache License, Version 2.0 (the "License"); you may
  * not use this file except in compliance with the License. You may obtain
@@ -16,7 +17,7 @@
  */
 
 
-package com.koalas.common;
+package com.latentview.koalas.common;
 
 
 import java.io.BufferedWriter;
@@ -34,10 +35,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import com.koalas.common.Series;
-import com.koalas.utils.Apply;
-import com.koalas.utils.Utils;
-import com.koalas.utils.SeriesIterator;
+import com.latentview.koalas.common.Series;
+import com.latentview.koalas.utils.Apply;
+import com.latentview.koalas.utils.Utils;
+import com.latentview.koalas.utils.SeriesIterator;
 /**
  * Tabular data structure with labeled axes (rows and columns).
  * @author GokulRamesh,Sureshkrishna

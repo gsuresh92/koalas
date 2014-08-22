@@ -1,7 +1,8 @@
 /*
- * Copyright 2009 Gokul Ramesh <gokul.q3a@gmail.com>
- * Copyright 2009 Sureshkrishna Gonugunta <gsuresh92@gmail.com>
- *
+ * Copyright 2014 Gokul Ramesh <gokul.q3a@gmail.com>
+ * Copyright 2014 Sureshkrishna Gonugunta <gsuresh92@gmail.com>
+ * Copyright 2014 LatentView Analytics, Inc.
+ * 
  * Licensed under the Apache License, Version 2.0 (the "License"); you may
  * not use this file except in compliance with the License. You may obtain
  * a copy of the License at
@@ -16,13 +17,13 @@
  */
 
 
-package com.koalas.utils;
+package com.latentview.koalas.utils;
 
 
 import java.util.Collections;
 import java.util.List;
 
-import com.koalas.common.Series;
+import com.latentview.koalas.common.Series;
 
 public  class Utils {
 	// quicksort a[left] to a[right]
